@@ -1,0 +1,2 @@
+I love programming in Python!
+I love making scripts.
